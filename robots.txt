@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://searchapi.heiphaistos.org/sitemap.xml

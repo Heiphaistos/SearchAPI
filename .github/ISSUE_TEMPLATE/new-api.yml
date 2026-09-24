@@ -1,0 +1,51 @@
+name: Proposer une API / Suggest an API
+description: Ajoutez une API gratuite, freemium ou payante à SearchAPI.
+title: "[API] "
+labels: ["new-api"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Nom de l'API / API name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL de la documentation / Documentation URL
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: Description courte (en anglais de préférence) / Short description
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Tarification / Pricing
+      options: [free, freemium, paid]
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Catégorie / Category
+      description: Par exemple Weather, Payments, Machine Learning…
+    validations:
+      required: true
+  - type: dropdown
+    id: auth
+    attributes:
+      label: Authentification / Auth
+      options: [none, apiKey, OAuth, other]
+    validations:
+      required: true
+  - type: checkboxes
+    id: flags
+    attributes:
+      label: Caractéristiques / Features
+      options:
+        - label: HTTPS
+        - label: CORS
