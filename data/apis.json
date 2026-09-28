@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-24T19:44:22+00:00",
- "count": 1988,
+ "generated_at": "2026-09-28T11:00:08+00:00",
+ "count": 2040,
  "counts": {
-  "free": 1860,
+  "free": 1912,
   "freemium": 90,
   "paid": 38
  },
@@ -1251,6 +1251,20 @@
    "id": "text-till-kladdesign"
   },
   {
+   "name": "The Color API",
+   "description": "Convert and generate color schemes",
+   "url": "https://www.thecolorapi.com",
+   "category": "Art & Design",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "the-color-api"
+  },
+  {
    "name": "Thisispaper",
    "description": "Curated architecture, design, photography and art projects with visual-similarity and taste metadata",
    "url": "https://www.thisispaper.com/intelligence/api-docs",
@@ -2457,6 +2471,20 @@
    "id": "pick-an-agency"
   },
   {
+   "name": "RankFabrik Places",
+   "description": "Search businesses and points of interest by city, deduplicated with a coverage report",
+   "url": "https://rankfabrik.com/produits/etablissements",
+   "category": "Business",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "rankfabrik-places"
+  },
+  {
    "name": "Redash",
    "description": "Access your queries and dashboards on Redash",
    "url": "https://redash.io/help/user-guide/integrations-and-api/api",
@@ -3200,6 +3228,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "quip"
+  },
+  {
+   "name": "Revdoku",
+   "description": "Cloud file storage, version history, sharing and incoming email attachments",
+   "url": "https://revdoku.com/api.md",
+   "category": "Cloud Storage & File Sharing",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "revdoku"
   },
   {
    "name": "Storj",
@@ -4816,6 +4858,20 @@
    "id": "freeforexapi"
   },
   {
+   "name": "Fulusly",
+   "description": "Exchange rates for 144 currencies with daily history back to the 1990s, English and Arabic",
+   "url": "https://fulusly.soft9.us/developers",
+   "category": "Currency Exchange",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "fulusly"
+  },
+  {
    "name": "FXpeek",
    "description": "Source-linked historical reference exchange rates with CSV, JSON and an MCP server",
    "url": "https://fxpeek.com/en/api",
@@ -5017,6 +5073,34 @@
    "id": "schemashield"
   },
   {
+   "name": "sthan.io Address Parser",
+   "description": "Parse freeform US addresses into structured fields (house number, street, unit, city, state, ZIP)",
+   "url": "https://sthan.io/products/address-parser-usa",
+   "category": "Data Validation",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "sthan-io-address-parser"
+  },
+  {
+   "name": "sthan.io Address Verification",
+   "description": "Validate and standardize US addresses, with ZIP+4 and deliverability status",
+   "url": "https://sthan.io/products/address-verification-usa",
+   "category": "Data Validation",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "sthan-io-address-verification"
+  },
+  {
    "name": "Temsor",
    "description": "Validates Turkish national ID, tax number, IBAN, phone, plate and parses addresses",
    "url": "https://api.temsor.com/docs",
@@ -5085,6 +5169,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "vatlayer"
+  },
+  {
+   "name": "VerifNow",
+   "description": "Validates email, phone, IBAN, EU VAT against VIES, and Canadian, Spanish and US national IDs",
+   "url": "https://docs.verifnow.io",
+   "category": "Data Validation",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "verifnow"
   },
   {
    "name": "ZeroBounce",
@@ -5537,6 +5635,20 @@
    "id": "changelogs-md"
   },
   {
+   "name": "ChartBytes",
+   "description": "Chart image API: turn a URL into a PNG or SVG chart (bar, pie, donut, stacked)",
+   "url": "https://chartbytes.onrender.com",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "chartbytes"
+  },
+  {
    "name": "Ciprand",
    "description": "Secure random string generator",
    "url": "https://github.com/polarspetroll/ciprand",
@@ -5932,6 +6044,20 @@
    "id": "github"
   },
   {
+   "name": "GithubTrends",
+   "description": "GitHub Trending repositories with star history and open-source alternatives to paid tools",
+   "url": "https://githubtrends.app/api/",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "githubtrends"
+  },
+  {
    "name": "Gitlab",
    "description": "Automate GitLab interaction programmatically",
    "url": "https://docs.gitlab.com/ee/api/",
@@ -5972,6 +6098,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "glitterly"
+  },
+  {
+   "name": "Go Module Proxy",
+   "description": "Go module versions and source metadata",
+   "url": "https://go.dev/ref/mod#goproxy-protocol",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "go-module-proxy"
   },
   {
    "name": "Google Docs",
@@ -6028,6 +6168,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "google-keep"
+  },
+  {
+   "name": "Google PageSpeed Insights",
+   "description": "Website performance and Lighthouse audit scores",
+   "url": "https://developers.google.com/speed/docs/insights/v5/get-started",
+   "category": "Development",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "google-pagespeed-insights"
   },
   {
    "name": "Google Sheets",
@@ -6128,6 +6282,20 @@
    "id": "hipsum"
   },
   {
+   "name": "Homebrew Formulae",
+   "description": "Package and cask data for the Homebrew package manager",
+   "url": "https://formulae.brew.sh/api/",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "homebrew-formulae"
+  },
+  {
    "name": "host-t.com",
    "description": "Basic DNS query via HTTP GET request",
    "url": "https://host-t.com",
@@ -6154,6 +6322,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "host-io"
+  },
+  {
+   "name": "HostDealRadar",
+   "description": "Source-backed hosting price and provider record lookup",
+   "url": "https://hostdealradar.com/ai/",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "hostdealradar"
   },
   {
    "name": "HTTP2.Pro",
@@ -6730,6 +6912,20 @@
    "id": "open-page-rank"
   },
   {
+   "name": "Open VSX",
+   "description": "Search and access VS Code extensions from the Open VSX registry",
+   "url": "https://open-vsx.org/",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "open-vsx"
+  },
+  {
    "name": "OpenAPIHub",
    "description": "The All-in-one API Platform",
    "url": "https://hub.openapihub.com/",
@@ -7128,6 +7324,20 @@
    "id": "renderwolf"
   },
   {
+   "name": "ReplyNodes",
+   "description": "Convert a public web page into clean Markdown",
+   "url": "https://replynodes.com/markdown-api/",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "replynodes"
+  },
+  {
    "name": "RSS feed to JSON",
    "description": "Returns RSS feed in JSON format using feed URL",
    "url": "https://rss-to-json-serverless-api.vercel.app",
@@ -7458,6 +7668,20 @@
    "id": "siteintel"
   },
   {
+   "name": "SnoopScan",
+   "description": "Scrape, crawl, map and search the web as clean markdown or JSON, with a free monthly tier",
+   "url": "https://snoopscan.com/docs",
+   "category": "Development",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "snoopscan"
+  },
+  {
    "name": "Sonar",
    "description": "Project Sonar DNS Enumeration API",
    "url": "https://github.com/Cgboal/SonarSearch",
@@ -7584,6 +7808,20 @@
    "id": "thunderbit"
   },
   {
+   "name": "Timezone WorldTime",
+   "description": "Current time, UTC offset and DST for any time zone or IP, a drop-in WorldTimeAPI replacement",
+   "url": "https://www.timezone.io/docs/worldtimeapi",
+   "category": "Development",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "timezone-worldtime"
+  },
+  {
    "name": "TinyMind Agent Tools",
    "description": "Free APIs by an AI agent on a VPS: actor lookup, word-of-the-day, poems, jokes, ping",
    "url": "https://tinymind.eu/api/",
@@ -7640,6 +7878,20 @@
    ],
    "source": "curated",
    "id": "urlbox"
+  },
+  {
+   "name": "URLpipe",
+   "description": "Turn a URL into Markdown, screenshots, metadata or Lighthouse audits, rendered in real Chrome",
+   "url": "https://urlpipe.dev/docs",
+   "category": "Development",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "urlpipe"
   },
   {
    "name": "Userstack",
@@ -7997,6 +8249,20 @@
    "id": "words"
   },
   {
+   "name": "WordSoHard",
+   "description": "Word definitions with Scrabble validity and tile score in one call, built for word games",
+   "url": "https://wordsohard.com/api",
+   "category": "Dictionaries",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "wordsohard"
+  },
+  {
    "name": "Airtable",
    "description": "Spreadsheet-database records, bases and webhooks",
    "url": "https://airtable.com/developers/web/api/introduction",
@@ -8054,6 +8320,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "asana"
+  },
+  {
+   "name": "Assinafy",
+   "description": "Brazilian e-signature API with a free plan",
+   "url": "https://api.assinafy.com.br/v1/docs",
+   "category": "Documents & Productivity",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "assinafy"
   },
   {
    "name": "BuildPDF",
@@ -8541,6 +8821,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "runconvert"
+  },
+  {
+   "name": "Sahifa",
+   "description": "HTML/URL to PDF and screenshots with Arabic and right-to-left support; free tier",
+   "url": "https://sahifa.dev/en/docs",
+   "category": "Documents & Productivity",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "sahifa"
   },
   {
    "name": "Smart Image Enhancement",
@@ -9071,6 +9365,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "sendinblue"
+  },
+  {
+   "name": "SendRaven",
+   "description": "Email for AI agents: send email, receive replies as threads, with per-key send limits and approvals",
+   "url": "https://sendraven.ai/docs/api",
+   "category": "Email",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "sendraven"
   },
   {
    "name": "SMTPfast",
@@ -9717,6 +10025,20 @@
    "id": "eventbrite"
   },
   {
+   "name": "FindLocal",
+   "description": "Hyper-local US events: concerts, trivia, open mics, readings, storytimes",
+   "url": "https://findlocal.community/docs",
+   "category": "Events",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "findlocal"
+  },
+  {
    "name": "SeatGeek",
    "description": "Search events, venues and performers",
    "url": "https://platform.seatgeek.com/",
@@ -9805,6 +10127,20 @@
    ],
    "source": "curated",
    "id": "alpha-vantage"
+  },
+  {
+   "name": "Arkleon",
+   "description": "Point-in-time SEC EDGAR fundamentals over /v1",
+   "url": "https://arkleon.com",
+   "category": "Finance",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "arkleon"
   },
   {
    "name": "Banco do Brasil",
@@ -10548,6 +10884,20 @@
    "id": "polygon-io"
   },
   {
+   "name": "PolyKal Fees",
+   "description": "Kalshi & Polymarket trading fee rates and formulas as verified JSON",
+   "url": "https://polymarket-kalshi.com/fee-schedule/",
+   "category": "Finance",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "polykal-fees"
+  },
+  {
    "name": "Portfolio Optimizer",
    "description": "Portfolio analysis and optimization",
    "url": "https://portfoliooptimizer.io/",
@@ -10630,6 +10980,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "smartapi"
+  },
+  {
+   "name": "Stanza VAT Validator",
+   "description": "Validate EU and UK VAT numbers with country formats, checksums, and VIES status",
+   "url": "https://stanzaapi.com/tools/vat-validator",
+   "category": "Finance",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "stanza-vat-validator"
   },
   {
    "name": "StockData",
@@ -10957,6 +11321,20 @@
    "id": "coffee"
   },
   {
+   "name": "Daily Food Recalls",
+   "description": "U.S. FDA and USDA food recalls, merged and normalized, updated daily",
+   "url": "https://dailyfoodrecalls.com/api/",
+   "category": "Food & Drink",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "daily-food-recalls"
+  },
+  {
    "name": "Edamam nutrition",
    "description": "Nutrition Analysis",
    "url": "https://developer.edamam.com/edamam-docs-nutrition-api",
@@ -11109,6 +11487,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "punkapi"
+  },
+  {
+   "name": "Racion",
+   "description": "Weekly meal plans with grocery prices and shopping lists, 22 countries",
+   "url": "https://racion.app/developers",
+   "category": "Food & Drink",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "racion"
   },
   {
    "name": "RecipeAPI",
@@ -13836,6 +14228,20 @@
    "id": "mexico"
   },
   {
+   "name": "Moradas",
+   "description": "Portuguese address autocomplete and 7-digit postal codes (CP7)",
+   "url": "https://moradas.dev/docs",
+   "category": "Geocoding",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "moradas"
+  },
+  {
    "name": "Nominatim",
    "description": "Provides worldwide forward / reverse geocoding",
    "url": "https://nominatim.org/release-docs/latest/api/Overview/",
@@ -14114,6 +14520,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "spotsense"
+  },
+  {
+   "name": "sthan.io IP Geolocation",
+   "description": "Look up the geographic location of any IPv4 or IPv6 address",
+   "url": "https://sthan.io/products/ip-geolocation",
+   "category": "Geocoding",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "sthan-io-ip-geolocation"
   },
   {
    "name": "Telize",
@@ -14425,6 +14845,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "brazilian-chamber-of-deputies-open-data"
+  },
+  {
+   "name": "Bureau of Labor Statistics",
+   "description": "US labor statistics: inflation, unemployment, wages and productivity",
+   "url": "https://www.bls.gov/developers/",
+   "category": "Government",
+   "auth": "none",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "bureau-of-labor-statistics"
   },
   {
    "name": "Census.gov",
@@ -14817,6 +15251,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "fbi-wanted"
+  },
+  {
+   "name": "FDA Import Alert Screening",
+   "description": "Screen firm names against FDA Import Alert Red, Yellow and Green Lists",
+   "url": "https://aerviklabs.com/apis/fda-import-alerts/",
+   "category": "Government",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "fda-import-alert-screening"
   },
   {
    "name": "FEC",
@@ -15757,6 +16205,20 @@
    "id": "right-to-disconnect"
   },
   {
+   "name": "Spatial India",
+   "description": "District-level data for India: Census, NFHS-5, NCRB, RBI and more, reconciled onto one map",
+   "url": "https://api.spatialindia.com",
+   "category": "Government",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "spatial-india"
+  },
+  {
    "name": "Tollmint",
    "description": "Advertising, subscription, AI-disclosure and accessibility rules across the US, EU and UK",
    "url": "https://api.tollmint.com",
@@ -16135,6 +16597,20 @@
    "id": "dataflow-kit-covid-19"
   },
   {
+   "name": "DeepDNA",
+   "description": "Cited gene, variant and CPIC drug-gene lookups for developers and AI agents",
+   "url": "https://deepdna.ai/docs/",
+   "category": "Health",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "deepdna"
+  },
+  {
    "name": "Edamam",
    "description": "Food and nutrition data API with recipe search",
    "url": "https://developer.edamam.com/",
@@ -16502,6 +16978,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "ai-dev-jobs"
+  },
+  {
+   "name": "Allowly Hiring Evidence",
+   "description": "Deterministic hiring policy decisions and signed evidence records",
+   "url": "https://allowly.ai/docs/solutions/hiring/api/",
+   "category": "Jobs",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "allowly-hiring-evidence"
   },
   {
    "name": "Arbeitnow",
@@ -16894,6 +17384,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "ai-for-thai"
+  },
+  {
+   "name": "AnswerLine",
+   "description": "ChatGPT, Gemini, Copilot, AI Mode and Google Search/News results as structured JSON",
+   "url": "https://answerline.dev/docs",
+   "category": "Machine Learning",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "unknown",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "answerline"
   },
   {
    "name": "Anthropic Claude",
@@ -17384,6 +17888,20 @@
    "id": "not-human-search"
   },
   {
+   "name": "onomeo",
+   "description": "OpenAI-compatible, 47 LLMs, small check-in credits, strict limits, optional paid top-up, public beta",
+   "url": "https://onomeo.com/docs",
+   "category": "Machine Learning",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "onomeo"
+  },
+  {
    "name": "OpenAI",
    "description": "GPT models, embeddings, image generation, speech and agents",
    "url": "https://platform.openai.com/docs/api-reference",
@@ -17445,6 +17963,20 @@
    ],
    "source": "curated",
    "id": "replicate"
+  },
+  {
+   "name": "Requesty",
+   "description": "OpenAI compatible LLM router for 600+ models, with a free tier for free models",
+   "url": "https://docs.requesty.ai",
+   "category": "Machine Learning",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "requesty"
   },
   {
    "name": "Roboflow Universe",
@@ -17534,6 +18066,20 @@
    "id": "time-door"
   },
   {
+   "name": "TokenRoute",
+   "description": "One OpenAI-compatible endpoint for hundreds of LLMs, with a free tier and per-token pricing",
+   "url": "https://tokenroute.app/docs/quickstart",
+   "category": "Machine Learning",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "tokenroute"
+  },
+  {
    "name": "Unplugg",
    "description": "Forecasting API for timeseries data",
    "url": "https://unplu.gg/test_api.html",
@@ -17546,6 +18092,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "unplugg"
+  },
+  {
+   "name": "Voxell Forge",
+   "description": "OpenAI-compatible text embeddings API, free-forever model with no credit card required",
+   "url": "https://voxell.ai/docs/#forge",
+   "category": "Machine Learning",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "voxell-forge"
   },
   {
    "name": "WolframAlpha",
@@ -18214,6 +18774,20 @@
    "id": "currents"
   },
   {
+   "name": "daily.dev",
+   "description": "Developer news feeds, posts, bookmarks, tags and search from daily.dev",
+   "url": "https://docs.daily.dev/public-api/",
+   "category": "News",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "daily-dev"
+  },
+  {
    "name": "DataCube AI",
    "description": "Daily curated AI industry news, funding rounds and trends in 8 languages",
    "url": "https://www.datacubeai.space/en/tools/ai-news-api",
@@ -18470,6 +19044,20 @@
    "id": "npr-one"
   },
   {
+   "name": "Scoopkit",
+   "description": "AI-industry news deduplicated into structured events with a versioned category taxonomy",
+   "url": "https://scoopkit.dev",
+   "category": "News",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "scoopkit"
+  },
+  {
    "name": "Spaceflight News",
    "description": "Spaceflight related news 🚀",
    "url": "https://spaceflightnewsapi.net",
@@ -18594,6 +19182,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "api-setu"
+  },
+  {
+   "name": "APIllow",
+   "description": "Zillow property data: 50+ fields per listing by address, URL, ZPID or ZIP, with sold data and comps",
+   "url": "https://apillow.co/docs.html",
+   "category": "Open Data",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "apillow"
   },
   {
    "name": "Archive.org",
@@ -18790,6 +19392,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "genesis"
+  },
+  {
+   "name": "HousingFeed",
+   "description": "US rental listings from property managers' own websites, verified weekly",
+   "url": "https://housingfeed.com/docs",
+   "category": "Open Data",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "housingfeed"
   },
   {
    "name": "i6eal Open AI Data",
@@ -20279,6 +20895,20 @@
    "id": "cloudinary"
   },
   {
+   "name": "Compresso",
+   "description": "Visually lossless image compression for PNG, JPEG and WebP",
+   "url": "https://compresso.space/developers",
+   "category": "Photography",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "compresso"
+  },
+  {
    "name": "Dagpi",
    "description": "Image manipulation and processing",
    "url": "https://dagpi.xyz",
@@ -20859,6 +21489,20 @@
    "id": "cyclecalcs"
   },
   {
+   "name": "DataCite",
+   "description": "Search and retrieve DOI metadata for research datasets and publications",
+   "url": "https://support.datacite.org/docs/rest-api",
+   "category": "Science & Math",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "datacite"
+  },
+  {
    "name": "Europe PMC",
    "description": "Life-science literature search with abstracts, citations and full-text links",
    "url": "https://europepmc.org/RestfulWebService",
@@ -21363,6 +22007,20 @@
    "id": "tle"
   },
   {
+   "name": "Unpaywall",
+   "description": "Open-access status and legal full-text links for scholarly articles",
+   "url": "https://unpaywall.org/products/api",
+   "category": "Science & Math",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "unpaywall"
+  },
+  {
    "name": "USGS Earthquake Hazards Program",
    "description": "Earthquakes data real-time",
    "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
@@ -21859,6 +22517,20 @@
    "id": "intelligence-x"
   },
   {
+   "name": "IPGuardian",
+   "description": "Check IP addresses against 140+ public threat intelligence blocklists",
+   "url": "https://ipguardian.net/docs",
+   "category": "Security",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "ipguardian"
+  },
+  {
    "name": "IPLogs",
    "description": "Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing",
    "url": "https://iplogs.com/docs",
@@ -21885,6 +22557,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "loginradius"
+  },
+  {
+   "name": "Maskbreak",
+   "description": "Detect VPNs, proxies, Tor, bots and antidetect browsers at signup, login and checkout",
+   "url": "https://maskbreak.com/api",
+   "category": "Security",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "maskbreak"
   },
   {
    "name": "MaxMind GeoIP2",
@@ -23716,6 +24402,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "nhl-records-and-stats"
+  },
+  {
+   "name": "NoPunt",
+   "description": "Weekly NFL game picks with model win probability, confidence tier and spread",
+   "url": "https://www.nopunt.com/api/picks.json",
+   "category": "Sports & Fitness",
+   "auth": "none",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "nopunt"
   },
   {
    "name": "Odds-API",
@@ -25621,6 +26321,20 @@
    "id": "navitia"
   },
   {
+   "name": "On va où ?",
+   "description": "Bike, scooter, motorcycle, wheelchair and walking routes across Europe, with safety indicators",
+   "url": "https://onvaou.app/developers/routing-api.html",
+   "category": "Transportation",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "no",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "on-va-ou"
+  },
+  {
    "name": "Open Charge Map",
    "description": "Global public registry of electric vehicle charging locations",
    "url": "https://openchargemap.org/site/develop/api",
@@ -26875,6 +27589,20 @@
    "tags": [],
    "source": "public-apis",
    "id": "wheelwise"
+  },
+  {
+   "name": "WhichTrim",
+   "description": "US vehicle recalls, complaints, fuel economy, crash ratings, service bulletins and VIN decoding",
+   "url": "https://whichtrim.com/developers/",
+   "category": "Vehicle",
+   "auth": "apiKey",
+   "https": true,
+   "cors": "yes",
+   "pricing": "free",
+   "pricing_model": "Free",
+   "tags": [],
+   "source": "public-apis",
+   "id": "whichtrim"
   },
   {
    "name": "An API of Ice And Fire",
