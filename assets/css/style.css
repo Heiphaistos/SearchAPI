@@ -84,6 +84,7 @@ pre {
   overflow-x: auto;
   font-size: .85rem;
 }
+[hidden] { display: none !important; }
 .muted { color: var(--text-muted); }
 .container { width: min(1200px, 100% - 32px); margin-inline: auto; }
 .visually-hidden, .skip-link:not(:focus) {
